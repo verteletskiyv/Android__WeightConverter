@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weight Converter</string>
+    <string name="tons">Amount in tons:</string>
+    <string name="kilograms">Amount in kgs:</string>
+    <string name="grams">Amount in grams:</string>
+    <string-array name="brew_array">
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Tons</item>
+    </string-array>
+    <string name="input_hint">Type a digit</string>
+</resources>
